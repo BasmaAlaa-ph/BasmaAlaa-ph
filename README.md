@@ -1,14 +1,14 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Basma Alaa Fathy!</h1>
 
-<p>Welcome to my GitHub! </br> I'm a 3rd-year <b>PharmD student</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197558.png" width="13"/> <b>Egypt</b>. I am deeply passionate about bridging the gap between pharmaceutical sciences, research & development (R&D), and artificial intelligence.</p>
+<p>Welcome to my GitHub! </br> I'm a 3rd-year <b>PharmD student</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197558.png" width="13"/> <b>Egypt</b>. I am deeply passionate about bridging the gap between pharmaceutical sciences, data, and artificial intelligence.</p>
 
 <h3>🎯 My Focus & Goals</h3>
 <p>
-  I am actively exploring the intersection of healthcare and tech, aiming to build a career in R&D and pharmaceutical formulation. My current learning path and interests include:
+  I am actively exploring the intersection of healthcare and computational technology, aiming to build a career in:
   <ul>
     <li>🧬 <b>Bioinformatics & Cheminformatics</b></li>
     <li>📊 <b>Data Analysis</b> for pharmaceutical applications</li>
-    <li>💊 <b>Computer-Aided Drug Design (CADD)</b> <i>(Currently learning!)</i></li>
+    <li>💻 <b>Computer-Aided Drug Design (CADD)</b> <i>(Currently exploring RDKit, ChEMBL, and PDB!)</i></li>
   </ul>
 </p>
 
@@ -32,12 +32,12 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="#"><b>DrugWise AI</b></a></td>
-      <td>A Telegram-integrated workflow built with n8n and OpenFDA data to provide quick and accurate medication information.</td>
+      <td><a href="https://github.com/BasmaAlaa-ph/DrugWise-AI-n8n-workflow-"><b>DrugWise AI</b></a></td>
+      <td>AI-powered n8n workflow that connects a Telegram bot with OpenFDA API to deliver fast, reliable drug information. Uses Gemini LLM to extract drug name and question intent, then returns summarized responses. Built for patients and healthcare professionals.</td>
     </tr>
     <tr>
-      <td><a href="#"><b>Pharma Data Analysis</b></a></td>
-      <td>Using Python and Pandas to analyze pharmacological datasets and extract meaningful insights.</td>
+      <td><a href="https://github.com/BasmaAlaa-ph/Order-Medication-n8n-AI-agent-"><b>Order Medication AI Agent</b></a></td>
+      <td>AI Agent Workflow using n8n built to automate patient medication requests. It integrates seamlessly with Airtable and uses an AI agent to respond intelligently based on real-time medication availability (Proof of Concept).</td>
     </tr>
   </tbody>
 </table>
@@ -46,13 +46,10 @@
 <ul>
   <li>🎓 <b>Postman API Fundamentals Student Expert:</b> Certified in building and testing APIs.</li>
   <li>💻 <b>Vibe Coding 101:</b> Completed the short course from DeepLearning.AI and Replit.</li>
-  <li>🔬 <b>Pharmaceutical Products for Beginners:</b> Completed via FutureLearn to deepen my knowledge in R&D and pharmaceutics.</li>
-  <li>🤝 <b>Volunteering & PR:</b> Active PR Coordinator and member of EPSF.</li>
 </ul>
 
 <h3>📫 Where to find me</h3>
 <p>
-  <a href="https://github.com/YourUsername" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/YourLinkedInProfile" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="mailto:YourEmail@example.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/BasmaAlaa-ph" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/basma-alaa-fathy-4b6823327" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
