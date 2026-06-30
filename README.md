@@ -30,6 +30,10 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/BasmaAlaa-ph/Advanced-Oral-Bioavailability-Screening-Analysis-of-Lipinski-Ghose-and-Veber-Rules-Using-Pandas"><b>Advanced Oral Bioavailability Screening</b></a></td>
+      <td>An automated computational pharmacy pipeline built with Python and Pandas to screen 15,000+ compounds for oral bioavailability. Translates medicinal chemistry filters (Lipinski, Ghose, Veber, and LogP Sweet Spot) into optimized vectorized logic to analyze molecular properties.</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/BasmaAlaa-ph/DrugWise-AI-n8n-workflow-"><b>DrugWise AI</b></a></td>
       <td>AI-powered n8n workflow that connects a Telegram bot with OpenFDA API to deliver fast, reliable drug information. Uses Gemini LLM to extract drug name and question intent, then returns summarized responses. Built for patients and healthcare professionals.</td>
     </tr>
