@@ -16,6 +16,8 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> 
+  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="n8n" src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
   <img alt="Prompt Engineering" src="https://img.shields.io/badge/-Prompt_Engineering-007ACC?style=flat-square&logo=openai&logoColor=white" />
 </p>
@@ -29,6 +31,10 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/BasmaAlaa-ph/Insilico-solubility-prediction-Delaney-ESOL"><b>In-Silico Solubility Prediction (Delaney ESOL)</b></a></td>
+      <td>Cheminformatics pipeline reimplementing Delaney's ESOL model from scratch to predict aqueous solubility for 1,128 pharmaceutical compounds. Built with Pandas, Matplotlib, and Seaborn — covering vectorized formula computation, druglikeness classification, and 7 publication-ready visualizations validating predicted vs. measured solubility.</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/BasmaAlaa-ph/Advanced-Oral-Bioavailability-Screening-Analysis-of-Lipinski-Ghose-and-Veber-Rules-Using-Pandas"><b>Advanced Oral Bioavailability Screening</b></a></td>
       <td>An automated computational pharmacy pipeline built with Python and Pandas to screen 15,000+ compounds for oral bioavailability. Translates medicinal chemistry filters (Lipinski, Ghose, Veber, and LogP Sweet Spot) into optimized vectorized logic to analyze molecular properties.</td>
@@ -46,6 +52,14 @@
 
 <h3>🏆 Latest Achievements & Certifications</h3>
 <ul>
+  <li>🎓 <b>1 Million Prompters, Dubai Future Foundation</b> <i>(Issued Feb 2025)</i> — Advanced Prompt Engineering.</li>
+  <li>🤖 <b>AI in Action Job Simulation, VISTA (via Forage)</b> <i>(Issued Jul 2026)</i>
+    <ul>
+      <li>Built fluency in prompt and contextual engineering.</li>
+      <li>Applied prompt skills to automate a professional workflow.</li>
+    </ul>
+  </li>
+  <li>💊 <b>Drug Discovery, Design and Development, Alison</b> <i>(Issued Jul 2025)</i></li>
   <li>🎓 <b>Postman API Fundamentals Student Expert:</b> Certified in building and testing APIs.</li>
   <li>💻 <b>Vibe Coding 101:</b> Completed the short course from DeepLearning.AI and Replit.</li>
 </ul>
